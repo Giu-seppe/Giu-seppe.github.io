@@ -11,7 +11,7 @@ tags: ["Basic", "Multi-lingual"]
 categories: ["Basic"]
 ---
 
-Greeting!! This is an introduction post. This post tests the followings:
+Greeting! This is an introduction post. This post tests the followings:
 
 - Hero image is in the same directory as the post.
 - This post should be at top of the sidebar.
