@@ -1,7 +1,7 @@
 baseURL: https://Giu-seppe.github.io
 
 languageCode: it
-title: "Diari di Crescita Finanziaria e Personale"
+title: "JOGAF" #Journal of Growth and Finance #"Diari di Crescita Finanziaria e Personale"
 
 # Use Hugo modules to add theme
 module:
@@ -14,9 +14,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  bn:
-    languageName: বাংলা
-    weight: 3
+  it:
+    languageName: Italiano
+	weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
@@ -55,7 +55,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/giu-seppe/giu-seppe.github.io
+  gitRepo: https://github.com/Giu-seppe/Giu-seppe.github.io
   # Default branch of your Git repo
   gitBranch: main
 
