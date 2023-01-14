@@ -22,10 +22,8 @@ jobs:
       with:
         hugo-version: 'latest'
         extended: true
-
 	- name: Install Dart Sass Embedded
       run: sudo snap install dart-sass-embedded
-
 	- name: Install Node.js dependencies
       run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
     # build website
