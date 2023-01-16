@@ -1,0 +1,18 @@
+# some information about you
+name: "Ciper"
+nickname: "Cip"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Ciao, io sono"
+image: "images/author/Cip.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "facileedagile@gmail.com"
+
+# some summary about what you do
+summary:
+  - Sono un Investitore Consapevole
+  - Sono un Programmatore
+  - Amo Fare Cose Nuove
+  - Amo lo Sport
+  - Amo Lavorare su Progetti Interessanti
+  - Mi Piace Uscire in Moto

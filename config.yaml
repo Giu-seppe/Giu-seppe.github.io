@@ -1,7 +1,7 @@
 baseURL: https://Giu-seppe.github.io
 
 languageCode: it
-title: "JOGAF" #Journal of Growth and Finance #"Diari di Crescita Finanziaria e Personale"
+title: "Crescita Finanziaria & Benessere"
 
 # Use Hugo modules to add theme
 module:
@@ -11,11 +11,11 @@ module:
 # Manage languages
 # For any more details, you can check the official documentation: https://gohugo.io/content-management/multilingual/
 languages:
-  en:
-    languageName: English
-    weight: 1
   it:
     languageName: Italiano
+    weight: 1
+  en:
+    languageName: English
     weight: 3
 
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
@@ -81,7 +81,7 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
@@ -277,4 +277,4 @@ params:
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
-      enable: true
+      enable: false
